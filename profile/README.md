@@ -22,7 +22,7 @@ The PHP logo images were downloaded from the [PHP site][logo-download].
 
 [logo-download]: https://www.php.net/download-logos.php
 
-[portal-link]: http://php.dev.br
+[portal-link]: https://php.dev.br
 
 [readme-badge]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 

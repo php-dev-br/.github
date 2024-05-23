@@ -21,7 +21,7 @@ As imagens do logotipo PHP foram baixadas do [site do PHP][logo-download].
 
 [logo-download]: https://www.php.net/download-logos.php
 
-[portal-link]: http://php.dev.br
+[portal-link]: https://php.dev.br
 
 [readme-badge]: https://img.shields.io/badge/lang-en-blue.svg
 
