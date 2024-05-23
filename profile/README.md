@@ -2,8 +2,8 @@
 
 [![pt-br][readme-badge]][readme-pt-br]
 
-The [php.dev.br][portal-link] provides Brazilian Portuguese translations of
-documentation and news related to the PHP language.
+The [php.dev.br][portal-link] project provides Brazilian Portuguese translations
+of documentations and news related to the PHP language.
 
 ## Support
 
