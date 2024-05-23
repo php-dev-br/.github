@@ -1,9 +1,14 @@
-# php.dev.br
+# [php.dev.br][portal-link]
 
 [![pt-br][readme-badge]][readme-pt-br]
 
-The php.dev.br portal brings together translations of documentation and news
-related to the PHP language.
+The [php.dev.br][portal-link] provides Brazilian Portuguese translations of
+documentation and news related to the PHP language.
+
+## Support
+
+You can support the project through [GitHub Sponsors][sponsor-github] or
+[Pix][sponsor-pix].
 
 ## PHP Logo
 
@@ -17,6 +22,12 @@ The PHP logo images were downloaded from the [PHP site][logo-download].
 
 [logo-download]: https://www.php.net/download-logos.php
 
+[portal-link]: http://php.dev.br
+
 [readme-badge]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 
 [readme-pt-br]: https://github.com/php-dev-br/.github/blob/main/profile/README.pt-br.md
+
+[sponsor-github]: https://github.com/sponsors/php-dev-br
+
+[sponsor-pix]: https://nubank.com.br/cobrar/2lya8/6569d98a-18be-4864-b152-a4ec9c501ba9
