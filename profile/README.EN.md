@@ -3,22 +3,23 @@
 [![en][readme-badge-en]][readme-lang-en]
 [![pt-br][readme-badge-pt-br]][readme-lang-pt-br]
 
-O projeto [php.dev.br][portal-link] disponibiliza traduções para o português
-brasileiro de documentações e notícias relacionadas à linguagem PHP.
+The [php.dev.br][portal-link] project provides Brazilian Portuguese translations
+of documentations and news related to the PHP language.
 
-## Apoio
+## Support
 
-Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
+You can support the project through [GitHub Sponsors][sponsor-github] or
 [Pix][sponsor-pix].
 
-## Logotipo PHP
+## PHP Logo
 
-Logotipo PHP foi criado por Colin Viebrock e lançado sob a licença
-[Creative Commons Attribution-Share Alike 4.0 International][logo-license].
+The PHP logo was created by Colin Viebrock and released under the
+[Creative Commons Attribution-Share Alike 4.0 International][logo-license]
+license.
 
-As imagens do logotipo PHP foram baixadas do [site do PHP][logo-download].
+The PHP logo images were downloaded from the [PHP site][logo-download].
 
-[logo-license]: https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br
+[logo-license]: https://creativecommons.org/licenses/by-sa/4.0/
 
 [logo-download]: https://www.php.net/download-logos.php
 
