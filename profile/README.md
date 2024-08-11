@@ -11,9 +11,11 @@ brasileiro de documentações e notícias relacionadas à linguagem PHP.
 Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 [Pix][sponsor-pix].
 
-## Logotipo PHP
+## Licença
 
-Logotipo PHP foi criado por Colin Viebrock e lançado sob a licença
+### Logotipo PHP
+
+O logotipo PHP foi criado por Colin Viebrock e lançado sob a licença
 [Creative Commons Attribution-Share Alike 4.0 International][logo-license].
 
 As imagens do logotipo PHP foram baixadas do [site do PHP][logo-download].

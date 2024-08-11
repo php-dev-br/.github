@@ -11,7 +11,9 @@ of documentations and news related to the PHP language.
 You can support the project through [GitHub Sponsors][sponsor-github] or
 [Pix][sponsor-pix].
 
-## PHP Logo
+## License
+
+### PHP Logo
 
 The PHP logo was created by Colin Viebrock and released under the
 [Creative Commons Attribution-Share Alike 4.0 International][logo-license]
